@@ -1,9 +1,26 @@
-# ODH Movie Finder
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-movie-finder/main/.github/banner.png" alt="Oblivion Movie Finder — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion Movie Finder</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Movie search web app built with Python and Flask: find films, ratings and details in a clean UI. By Oblivion.</b></p>
+
+<p align="center">`flask` · `python` · `movie-search` · `web-app` · `movies` · `film`</p>
+
+---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/didaquis/search-movies-react/graphs/commit-activity)
 
-A web application powered by Python and Flask to search for movies using the TMDb API. Brought to you by Oblivion Development & Hosting.
+A web application powered by Python and Flask to search for movies using the TMDb API. Brought to you by Oblivion.
 
 ## Table of Contents
 
@@ -21,7 +38,7 @@ A web application powered by Python and Flask to search for movies using the TMD
 
 ## About
 
-ODH Movie Finder is a user-friendly web application that allows you to search for movies and retrieve information such as titles, release dates, posters, and more. It leverages the TMDb API to provide accurate and up-to-date movie data. Developed and maintained by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) as a showcase of our web development and API integration expertise.
+ODH Movie Finder is a user-friendly web application that allows you to search for movies and retrieve information such as titles, release dates, posters, and more. It leverages the TMDb API to provide accurate and up-to-date movie data. Developed and maintained by [Oblivion](https://odh.ivan-vcard.xyz) as a showcase of our web development and API integration expertise.
 
 ## Disclaimer
 
@@ -57,7 +74,7 @@ Follow these steps to set up and run the ODH Movie Finder on your local machine:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/ivanbg2004/oblivion-movie-finder.git
+    git clone https://github.com/Oblivion/oblivion-movie-finder.git
     cd oblivion-movie-finder
     ```
 
@@ -138,9 +155,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Oblivion Development & Hosting: [https://odh.ivan-vcard.xyz](https://odh.ivan-vcard.xyz)
+Oblivion: [https://odh.ivan-vcard.xyz](https://odh.ivan-vcard.xyz)
 
 ---
 
-Developed with ❤️ by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) 6 years later.
-Oblivion Development & Hosting is a Linux-first company, but we reluctantly support other platforms.
+Developed with ❤️ by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by [Oblivion](https://odh.ivan-vcard.xyz) 6 years later.
+Oblivion is a Linux-first company, but we reluctantly support other platforms.
+
+
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: flask, python, movie-search, web-app, movies, film, tmdb-api, frontend.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
